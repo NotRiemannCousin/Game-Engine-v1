@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using GE_1.ProjectManager;
 using MyForms.FormsOverride;
-
+ 
 namespace GE_1
 {
     public partial class Editor : Form
