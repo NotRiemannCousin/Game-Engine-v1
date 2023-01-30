@@ -1,0 +1,17 @@
+C:\Users\Aluno\Documents\Marcelo\GE\GE 1\bin\Debug\GE 1.exe.config
+C:\Users\Aluno\Documents\Marcelo\GE\GE 1\bin\Debug\GE 1.exe
+C:\Users\Aluno\Documents\Marcelo\GE\GE 1\bin\Debug\GE 1.pdb
+C:\Users\Aluno\Documents\Marcelo\GE\GE 1\obj\Debug\GE 1.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Marcelo\GE\GE 1\obj\Debug\GE 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\Marcelo\GE\GE 1\obj\Debug\GE_1.Properties.Resources.resources
+C:\Users\Aluno\Documents\Marcelo\GE\GE 1\obj\Debug\GE 1.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Marcelo\GE\GE 1\obj\Debug\GE 1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Marcelo\GE\GE 1\obj\Debug\GE 1.exe
+C:\Users\Aluno\Documents\Marcelo\GE\GE 1\obj\Debug\GE 1.pdb
+C:\Users\Aluno\Documents\Marcelo\GE\GE 1\bin\Debug\MaterialSkin.dll
+C:\Users\Aluno\Documents\Marcelo\GE\GE 1\obj\Debug\GE 1.csproj.CopyComplete
+C:\Users\Aluno\Documents\Marcelo\GE\GE 1\bin\Debug\MyForms.exe
+C:\Users\Aluno\Documents\Marcelo\GE\GE 1\bin\Debug\MyForms.pdb
+C:\Users\Aluno\Documents\Marcelo\GE\GE 1\obj\Debug\GE_1.ProjectManager.Window_createNewProject.resources
+C:\Users\Aluno\Documents\Marcelo\GE\GE 1\obj\Debug\GE_1.ProjectManager.Window_init.resources
+C:\Users\Aluno\Documents\Marcelo\GE\GE 1\obj\Debug\GE_1.Editor.resources
